@@ -1,8 +1,6 @@
-# ⚙ Project name
+# ⚙ Mini Greenhouse
 
 *Insert picture/gif of full project UI*
-## 📂 Assignment
-*Assignment explanation*
 
 ## 🧾 Table of contents
 -   [About the project](##About-the-project)
