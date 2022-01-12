@@ -28,11 +28,11 @@
 
 2. Clone the repository
 ```
-git clone https://github.com/KoenHaagsma/TechTrack-Frontend-Applications.git
+git clone [...]
 ```
 3. Go to the cloned repository
 ```
-cd ../../Techtrack-Frontend-Applications
+cd ../../[...]
 ```
 4. Install all packages
 ```
@@ -56,6 +56,3 @@ npm run dev
 
 ## 🔖 License
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)]()
-
-## 👪 Contributers
-*Insert contributers and their role*
